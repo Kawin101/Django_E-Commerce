@@ -1,3 +1,6 @@
+# Overview
+[Presentation on Canva](https://www.canva.com/design/DAGBVAjIhO4/HgOONDhep9MqNfpQZRaStw/view?utm_content=DAGBVAjIhO4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8f08c83569)
+
 # Django_E-Commerce Docs | How to install this project
 
 Please select your language / กรุณาเลือกภาษาของคุณ:
